@@ -105,6 +105,7 @@ main {
   width: fit-content;
   height: 100px;
   border-radius: 10px;
+  background: #999;
 }
 
 .fruit_violet {
